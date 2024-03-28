@@ -2,14 +2,15 @@
 
 
 * {
-     font-family: 'poppins', sans-serif;
-     margin: 0;
-     padding: 0;
-     box-sizing: border-box;
+    scroll-behavior: smooth;
+    font-family: 'poppins', sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
 }
 
 body {
-    background-color: #f4eaff;
+    background-color: #f7f4cf;
 }
 
 section {
