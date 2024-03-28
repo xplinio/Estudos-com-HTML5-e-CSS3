@@ -30,8 +30,6 @@ $(document).ready(function() {
             }
         })
 
-        console.log(`${activeSectionIndex}`)
-
         navItems.removeClass('active');
         $(navItems[activeSectionIndex]).addClass('active');
     });
